@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMagicApple
-- 👀 I’m interested in Web development and Game development
-- 🌱 I’m currently learning Java, C#, Javascript, HTML, and CSS
+- 👀 I’m interested in Web development and Game development :)
+- 🌱 I’m currently learning Java, Python, C#, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
