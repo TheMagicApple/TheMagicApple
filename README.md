@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TheMagicApple
-- 👀 I’m interested in Web development and Game development :)
-- 🌱 I’m currently learning Java, Python, C#, Javascript, HTML, and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in website and game development!
+- 🌱 I’m currently learning VueJS and Firebase.
 
 <!---
 TheMagicApple/TheMagicApple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
